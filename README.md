@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 头像部分 - 请将下面的图片链接替换为你自己的图片链接 -->
+<!-- 头像部分 -->
 <div align="center">
   <img src="./11.jpg" alt="头像" width="200" height="200" />
 </div>
@@ -47,5 +47,12 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats 卡片  -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fade-147&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=fade-147&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<!-- 贪吃蛇动画 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fade-147/Fade-147/output/snake.svg" alt="Snake Animation" />
 </div>
