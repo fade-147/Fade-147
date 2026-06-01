@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 
 <!-- 贪吃蛇动画 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fade-147/Fade-147/output/snake.svg" alt="Snake Animation" />
+  <img src="./assets/snake.svg" alt="Snake Animation" />
 </div>
