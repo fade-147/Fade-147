@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats 卡片  -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fade-147&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fade-147&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
 </div>
